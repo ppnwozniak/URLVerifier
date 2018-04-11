@@ -1,0 +1,17 @@
+<verifier>
+  <website>
+    <url>http://ibp.pwr.edu.pl/instytut.php?sub=5</url>
+    <id>main</id>
+    <content>bogumil.konopka@pwr.edu.pl</content>
+  </website>
+  <website>
+    <url>http://comprec-lin.iiar.pwr.edu.pl/</url>
+    <id>panel</id>
+    <content>FP filter</content>
+  </website>
+  <website>
+    <url>http://www.foobar.com/login</url>
+    <id>login</id>
+    <content>Please login:</content>
+  </website>
+</verifier>

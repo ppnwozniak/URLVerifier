@@ -1,0 +1,11 @@
+BeautifulSoup==3.2.1
+certifi==2018.1.18
+chardet==3.0.4
+configparser==3.5.0
+Django==1.11.11
+djangorestframework==3.7.7
+idna==2.6
+logging==0.4.9.6
+pytz==2018.3
+requests==2.18.4
+urllib3==1.22
