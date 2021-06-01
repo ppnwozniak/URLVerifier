@@ -8,4 +8,4 @@ idna==2.6
 logging==0.4.9.6
 pytz==2018.3
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
